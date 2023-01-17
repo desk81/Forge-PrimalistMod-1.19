@@ -1,0 +1,24 @@
+{
+  "item.primalistmod.veskel": "Veskel",
+  "item.primalistmod.mote_of_water": "Mote of Water",
+  "item.primalistmod.mote_of_fire": "Mote of Fire",
+  "item.primalistmod.mote_of_earth": "Mote of Earth",
+  "item.primalistmod.mote_of_air": "Mote of Air",
+  "item.primalistmod.mote_of_life": "Mote of Life",
+  "item.primalistmod.mote_of_ice": "Mote of Ice",
+  "item.primalistmod.mote_of_time": "Mote of Time",
+  "item.primalistmod.withering_mote": "Withering Mote",
+  "item.primalistmod.the_forsaken_mote": "The Forsaken Mote",
+  "item.primalistmod.essence_of_the_sky": "Essence of the Sky",
+  "item.primalistmod.essence_of_the_tide": "Essence of the Tide",
+  "item.primalistmod.essence_of_the_pyromancer": "Essence of the Pyromancer",
+  "item.primalistmod.essence_of_the_caverns": "Essence of the Caverns",
+  "item.primalistmod.essence_of_the_void": "Essence of the Void",
+  "item.primalistmod.essence_of_the_glacier": "Essence of the Glacier",
+  "item.primalistmod.essence_of_the_infinite_sands": "Essence of the Infinite Sands",
+  "item.primalistmod.blooming_essence": "Blooming Essence",
+  "item.primalistmod.essence_of_souls": "Essence of Souls",
+
+  "itemGroup.primalisttab": "Primal Tab"
+
+}
